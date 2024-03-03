@@ -1,0 +1,6 @@
+[submodule "community"]
+	path = community
+	url = https://github.com/talonhub/community.git
+[submodule "flex-mouse-grid"]
+	path = flex-mouse-grid
+	url = https://github.com/brollin/flex-mouse-grid.git
